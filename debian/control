@@ -10,7 +10,7 @@ Build-Depends:
     qt6-declarative-dev,
     qt6-base-dev,
 Standards-Version: 4.6.2
-Homepage: https://github.com/lingmo-os/lingmo-appmotor
+Homepage: https://github.com/Matrinsoft/lingmo-appmotor
 Rules-Requires-Root: no
 
 Package: lingmo-appmotor
